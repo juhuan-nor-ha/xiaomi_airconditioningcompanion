@@ -2,7 +2,7 @@
   "domain": "xiaomi_miio_airconditioningcompanion",
   "name": "Xiaomi Mi and Aqara Air Conditioning Companion",
   "codeowners": [
-    "@syssi"
+    "@juhuan-nor-ha"
   ],
   "config_flow": false,
   "dependencies": ["sensor"],
